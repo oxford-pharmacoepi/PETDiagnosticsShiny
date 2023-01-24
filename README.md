@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # PETDiagnosticsShiny
 Shiny to go with the PETDiagnostics Package
 
