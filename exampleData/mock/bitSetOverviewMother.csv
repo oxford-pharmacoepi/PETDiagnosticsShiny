@@ -1,0 +1,8 @@
+"databaseId","pattern","n","perc","pregnancy_number_fetuses","pregnancy_single","pregnancy_id","pregnancy_outcome","pregnancy_number_liveborn","pregnancy_mode_delivery","nNA","pNA","result_obscured"
+"mock",1,64,64,1,1,1,1,1,1,0,0,TRUE
+"mock",2,26,26,1,1,1,1,1,0,1,16.6666666666667,TRUE
+"mock",3,4,4,1,1,1,1,0,1,1,16.6666666666667,TRUE
+"mock",4,2,2,1,1,1,1,0,0,2,33.3333333333333,TRUE
+"mock",5,1,1,1,1,1,0,1,1,1,16.6666666666667,TRUE
+"mock",6,3,3,1,1,1,0,1,0,2,33.3333333333333,TRUE
+"mock",NA,100,100,0,0,0,4,6,31,NA,NA,TRUE

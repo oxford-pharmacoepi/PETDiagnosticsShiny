@@ -1,0 +1,6 @@
+"databaseId","variable","count","proportionInPercentage","Total","result_obscured"
+"mock","pregnancy_start_date",0,0,100,FALSE
+"mock","pregnancy_end_date",0,0,100,FALSE
+"mock","pregnancy_outcome",NA,NA,100,TRUE
+"mock","pregnancy_mode_delivery",31,31,100,FALSE
+"mock","pregnancy_single",0,0,100,FALSE

@@ -1,0 +1,6 @@
+"databaseId","variable","count","proportionInPercentage","Total","result_obscured"
+"mock","different_gestationalAge",0,0,100,FALSE
+"mock","match_gestationalAge",100,100,100,FALSE
+"mock","missing_information",0,0,100,FALSE
+"mock","endBeforeStart",0,0,100,FALSE
+"mock","endAfterStart",100,100,100,FALSE

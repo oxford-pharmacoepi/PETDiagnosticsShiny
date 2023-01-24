@@ -1,0 +1,4 @@
+"databaseId","variable","count","proportionInPercentage","Total","result_obscured"
+"mock","no_match",12,12,100,FALSE
+"mock","match",84,84,100,FALSE
+"mock","missingUnknown_information",NA,NA,100,TRUE

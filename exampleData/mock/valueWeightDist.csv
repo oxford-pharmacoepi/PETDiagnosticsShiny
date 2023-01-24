@@ -1,0 +1,10 @@
+"databaseId","variable","value","result_obscured"
+"mock","min_birth_weight_in_gram",528,FALSE
+"mock","q05_birth_weight_in_gram",811.15,FALSE
+"mock","q10_birth_weight_in_gram",912.1,FALSE
+"mock","q25_birth_weight_in_gram",1327,FALSE
+"mock","median_birth_weight_in_gram",2390.5,FALSE
+"mock","q75_birth_weight_in_gram",3991.5,FALSE
+"mock","q90_birth_weight_in_gram",4620.7,FALSE
+"mock","q95_birth_weight_in_gram",4793.85,FALSE
+"mock","max_birth_weight_in_gram",4998,FALSE

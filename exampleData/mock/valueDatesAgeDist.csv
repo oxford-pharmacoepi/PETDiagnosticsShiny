@@ -1,0 +1,14 @@
+"databaseId","variable","value","result_obscured"
+"mock","min_start","2000-01-29",FALSE
+"mock","max_start","2019-10-20",FALSE
+"mock","min_end","2000-07-07",FALSE
+"mock","max_end","2020-01-19",FALSE
+"mock","min_gestationalAge_inDays","55",FALSE
+"mock","q05_gestationalAge_inDays","69.95",FALSE
+"mock","q10_gestationalAge_inDays","73.9",FALSE
+"mock","q25_gestationalAge_inDays","96",FALSE
+"mock","median_gestationalAge_inDays","146.5",FALSE
+"mock","q75_gestationalAge_inDays","207.25",FALSE
+"mock","q90_gestationalAge_inDays","256.1",FALSE
+"mock","q95_gestationalAge_inDays","263.4",FALSE
+"mock","max_gestationalAge_inDays","277",FALSE

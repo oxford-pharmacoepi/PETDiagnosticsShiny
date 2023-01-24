@@ -1,0 +1,7 @@
+"databaseId","variable","count","proportionInPercentage","Total","result_obscured"
+"mock","single_not_align_with_noOfFetusId",54,54,100,FALSE
+"mock","single_align_with_noOfFetusId",46,46,100,FALSE
+"mock","missingUnknown_single",0,0,100,FALSE
+"mock","noOfFetus_not_align_with_noOfFetusId",91,91,100,FALSE
+"mock","noOfFetus_align_with_noOfFetusId",9,9,100,FALSE
+"mock","missing_noOfFetus",0,0,100,FALSE

@@ -1,0 +1,9 @@
+"databaseId","variable","count","proportionInPercentage","Total","result_obscured"
+"mock","pregnancy_id",0,0,110,FALSE
+"mock","fetus_id",0,0,110,FALSE
+"mock","birth_outcome",6,5.5,110,FALSE
+"mock","birth_weight",0,0,110,FALSE
+"mock","birth_con_malformation",0,0,110,FALSE
+"mock","birth_SGA",0,0,110,FALSE
+"mock","birth_FGR",0,0,110,FALSE
+"mock","birth_APGAR",0,0,110,FALSE

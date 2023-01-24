@@ -1,0 +1,4 @@
+"databaseId","pattern","n","perc","fetus_id","pregnancy_id","birth_weight","birth_con_malformation","birth_SGA","birth_FGR","birth_APGAR","birth_outcome","nNA","pNA","result_obscured"
+"mock",1,104,94.5454545454545,1,1,1,1,1,1,1,1,0,0,TRUE
+"mock",2,6,5.45454545454545,1,1,1,1,1,1,1,0,1,12.5,TRUE
+"mock",NA,110,100,0,0,0,0,0,0,0,6,NA,NA,NA
