@@ -10,6 +10,5 @@ make sure the DATA_DIRECTORY variable in global.R points to your data directory.
 an environment with R, Rstudio and packages installed. To setup your environment with the right versions of packages use renv:
 install.packages("renv") 
 renv::restore()
-Run
 
 The app can be run by opening app.R and clicking on "Run App" in the top right corner.
