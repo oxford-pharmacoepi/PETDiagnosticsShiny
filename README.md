@@ -1,4 +1,6 @@
 
+
+
 # PETDiagnosticsShiny
 Shiny to go with the PETDiagnostics Package
 
@@ -12,6 +14,7 @@ an environment with R, Rstudio and packages installed. To setup your environment
 ``` r 
 install.packages("renv") 
 renv::restore()
+
 ```
 
-The app can be run by opening either server.R, ui.R or global.R and clicking on "Run App" in the top right corner.
+The app can be run by opening app.R and clicking on "Run App" in the top right corner.
