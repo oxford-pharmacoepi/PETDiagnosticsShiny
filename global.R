@@ -29,12 +29,17 @@ if (identical(subDirs, character(0))) {
 
 # load data from directory, merge csv's for multiple databases
 mergeFiles <- function(files) {
-  dplyr::bind_rows(lapply(files,
-                          FUN = function(filename) {
-                            if (file.exists(filename)) {
-                              read.csv(filename)
-                            }
-                          }))
+  results <- dplyr::bind_rows(lapply(files,
+                                     FUN = function(filename) {
+                                       result <- NULL
+                                       if (file.exists(filename)) {
+                                         read.csv(filename)
+                                         result <- read.csv(filename)
+                                       }
+                                     }
+  )
+  )
+  return(results)
 }
 
 
