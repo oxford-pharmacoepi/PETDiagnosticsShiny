@@ -2,7 +2,7 @@
 
 
 # PETDiagnosticsShiny
-Shiny to go with the PETDiagnostics Package
+A ShinyApp depicting the results of the PETDiagnostics Package
 
 A shiny application to view the results of the PETDiagnostics
 
